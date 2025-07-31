@@ -1,0 +1,227 @@
+
+/**{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}*/
+body{
+    width: 100%;
+    background-color:#F5F8FF;
+}
+.des{
+    margin-top: 80px;
+}
+header{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+footer{
+    max-width: 1440px;
+    height: 177px;
+    margin: 0 auto;
+    background-color: rgba(11, 13, 23, 1);
+}
+.descrip{
+    width: 520px;
+    height: 160px;
+}
+.descrip p{
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "Yeseva One",serif;
+}
+.pera{
+    width: 421px;
+    height: 74px;
+    margin-top: -20px;
+}
+.pera P{
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Poppins",serif;
+}
+.btn1{
+    width: 172px;
+    height: 48px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.small-pera{
+    width: 297px;
+    height: 24px;
+}
+.small-pera p{
+    font-family: "poppins",serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.img0{
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.img0 img{
+    width: 426px;
+    height: 623px;
+}
+.navbar{
+    display: flex;
+}
+
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.miss-des p{
+    font-size: 48px;
+    font-family: "poppins",serif;
+    justify-content: center;
+    text-align: center;
+}
+.card1{
+    width: 360px;
+    height: 376px;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+}
+.card2{
+    width: 360px;
+    height: 376px;
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+}
+.card3{
+    width: 360px;
+    height: 376px;
+    background-color:rgba(255, 244, 214, 1);
+    border-radius: 26px;
+}
+.illpic img{
+    width: 126px;
+    height: 126px;
+}
+.ill-des{
+    width: 315px;
+    height: 153px;
+}
+.ill-des h1{
+    font-size: 24px;
+    font-family: "poppins",serif;
+}
+.ill-des p{
+    font-size: 16px;
+    font-family: "poppins",serif;
+    font-weight: normal;
+}
+.card-item{
+    padding-left: 15px;
+    padding-top: 50px;
+}
+.card-items{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+.cod img{
+    width: 400px;
+    height: 400px;
+}
+.cod-desk1{
+    width: 654px;
+    height: 311px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.cod-desk2{
+    width: 654px;
+    height: 311px;
+    padding-top: 150px;
+}
+.dev1{
+    width: 170px;
+    height: 108px;
+}
+.dev2{
+    width: 179px;
+    height: 108px;
+}
+.cod-desk h1{
+    font-size: 36px;
+    font-family: "poppins",serif;
+}
+.cod-desk p{
+    font-size: 18px;
+    font-family: "poppins",serif;
+    font-weight: normal;
+}
+.lorem{
+    margin-top: -40px;
+    width: 454px;
+    height: 120px;
+}
+.btn2{
+    width: 243px;
+    height: 48px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.dev-sec1{
+    display: flex;
+    margin-top: 50px;
+}
+.cod{
+     margin-top: 50px;
+}
+.dev-sec2{
+    display: flex;
+   
+}
+.text{
+    color: #FFAD5A;
+}
+.phn img{
+    width: 229px;
+    height: 471px;
+}
+.application{
+    width: 525px;
+    height: 333px;
+    padding-left: 180px;
+}
+.btn3{
+    width: 157px;
+    height: 48px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.app{
+    display: flex;
+    padding-left: 220px;
+}
+.foot h5{
+    font-size: 36px;
+    font-family: "lobster",serif;
+    font-weight: normal;
+    color: white ;
+}
+.foot{
+    padding-top: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.text1{
+    color: #FF5959;
+}
+.text3{
+    justify-content: center;
+    text-align: center;
+    margin-top: -40px;
+    color: rgba(217, 219, 225, 1);
+}
